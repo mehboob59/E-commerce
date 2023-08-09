@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.6e0dca58.css",
+    "main.js": "/Ecommerce/static/js/main.eb393b25.js",
+    "static/js/787.ccf208e0.chunk.js": "/Ecommerce/static/js/787.ccf208e0.chunk.js",
+    "static/media/bg.jpg": "/Ecommerce/static/media/bg.017df9b67403477988e6.jpg",
+    "static/media/perfume.jpg": "/Ecommerce/static/media/perfume.37306177245a2e5c1e66.jpg",
+    "static/media/watch.jpg": "/Ecommerce/static/media/watch.f5bb96cfc431c6a3c60c.jpg",
+    "static/media/makeup.jpg": "/Ecommerce/static/media/makeup.662e00acacc3b2b657e2.jpg",
+    "static/media/shoes.jpg": "/Ecommerce/static/media/shoes.9834373c7fa9c1318e8e.jpg",
+    "static/media/dslr.jpg": "/Ecommerce/static/media/dslr.bcd1de50572d2dfbee0a.jpg",
+    "static/media/ring.jpg": "/Ecommerce/static/media/ring.616aabd9c9709105b0f9.jpg",
+    "static/media/headphone.jpg": "/Ecommerce/static/media/headphone.cd5ad24f9918b67ef006.jpg",
+    "static/media/phone.jpg": "/Ecommerce/static/media/phone.bc58db0c2e6a2e6aaf04.jpg",
+    "index.html": "/Ecommerce/index.html",
+    "main.6e0dca58.css.map": "/Ecommerce/static/css/main.6e0dca58.css.map",
+    "main.eb393b25.js.map": "/Ecommerce/static/js/main.eb393b25.js.map",
+    "787.ccf208e0.chunk.js.map": "/Ecommerce/static/js/787.ccf208e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0dca58.css",
+    "static/js/main.eb393b25.js"
+  ]
+}
